@@ -47,6 +47,7 @@ header .content .button{
 }
 .content .button > button{
     border: none;
+    -webkit-appearance: none;
     font-size: 1.1em;
     font-weight: 500;
     flex: 1;
